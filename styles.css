@@ -87,7 +87,7 @@ section { padding: 120px 0; }
 
 
 #principal {
-    background-image: url(xboxcontrol.jpg);
+    background-color: black;
     background-size: cover;
     padding-top: 90px;
     min-height: 700px;
